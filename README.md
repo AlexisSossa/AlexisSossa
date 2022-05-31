@@ -6,15 +6,6 @@ characterized by being in a process of continuous improvement, Im always open to
 technologies.
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/software-engineer-alexis-sosa/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/alexissossa/)  [![Dev](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/alexissossa/) 
-# 💫About Me :
-Complex problem-solver with analytical and driven mindset.
-Passionate about software development, Im very driven by the optimization of results, with the aim of
-providing better tools / solutions towards a specific objective. Im consider myself a person who is
-characterized by being in a process of continuous improvement, Im always open to learning new
-technologies.
-
-## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/software-engineer-alexis-sosa/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://alexissossa.medium.com/) 
 
 # 💻Tech Stack
@@ -24,7 +15,7 @@ technologies.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alexissossa&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexissossa&theme=merko&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Quote
+### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
