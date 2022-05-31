@@ -1,4 +1,4 @@
-# 💫About Me :
+# :alien: About Me :
 Complex problem-solver with analytical and driven mindset.
 Passionate about software development, Im very driven by the optimization of results, with the aim of
 providing better tools / solutions towards a specific objective. Im consider myself a person who is
